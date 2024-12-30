@@ -40,9 +40,12 @@
       "summary": "Developpement et maintenance de l'application Securrity de Netatmo.",
       "highlights": [],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Developpement de l'application Security en Swift/SwiftUI/Flux architecture",
+        "Developpement des packages additionnels à l'application & l'entreprise",
+        "Developpement des outils interne",
+        "Participation au développement des produits avec les PM's et les Designers",
+        "Mise en place de la documentation des package en utilisant Swift-CLi/Docc",
+        "Architecture des flows d'installations"
       ],
       "achievements": [
         "Développement de nouvelles fonctionalité & Fix de bugs.",
@@ -773,7 +776,7 @@
     {
       "name": "RTM transport",
       "isActive": false,
-      "description": "A native mobile app to plan your transport journy.",
+      "description": "A native mobile app to plan your transport journey.",
       "highlights": [
         "Built with Objective-C/UIKit for iOS app",
         "Built with Java/Android SDK for Android app"
@@ -784,6 +787,23 @@
       "isActive": false,
       "description": "A native mobile app to see all postal code and city information for Algerian cities.",
       "highlights": ["Built with Objective-C/UIKit for iOS app"]
+    },
+    {
+      "name": "DependencyInjection",
+      "isActive": true,
+      "description": "A small and tested SPM package work on macOS and Linux to manage all the dependenies inside the app.",
+      "highlights": ["Built with swift"],
+      "github": "https://github.com/amine2233/DependencyInjection"
+    },
+    {
+      "name": "SPM Packages",
+      "isActive": true,
+      "description": "A small and tested SPM packages work on macOS and Linux to reuse over many professional and personal app and api project.",
+      "highlights": [
+        "Built with swift",
+        "Build with PHP and deployed using Composer"
+      ],
+      "github": "https://github.com/amine2233"
     }
   ]
 }
